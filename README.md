@@ -1,6 +1,6 @@
 # abstraction
 
-An abstraction example.
+An abstraction example. Fake.Api and Http.Api
 
 ## Getting Started
 
